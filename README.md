@@ -5,7 +5,7 @@ When the question is clicked the answer shows
 
 ### App Walk-though
 
-<img src="http://recordit.co/uvp9b9ynQz" width=200><br>
+<img src="http://recordit.co/uvp9b9ynQz.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
